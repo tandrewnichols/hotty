@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/tandrewnichols/hotty/issues"
   },
-  "homepage": "https://github.com/tandrewnichols/hotty#readme"
+  "homepage": "https://github.com/tandrewnichols/hotty#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
 }
