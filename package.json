@@ -1,0 +1,30 @@
+{
+  "name": "hotty",
+  "version": "0.0.1",
+  "description": "Hot reloading for server-side templating",
+  "main": "lib/hotty.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tandrewnichols/hotty.git"
+  },
+  "keywords": [
+    "hot",
+    "reload",
+    "live",
+    "reload",
+    "livereload",
+    "hot",
+    "live",
+    "reload",
+    "server-side"
+  ],
+  "author": "Andrew Nichols",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tandrewnichols/hotty/issues"
+  },
+  "homepage": "https://github.com/tandrewnichols/hotty#readme"
+}
